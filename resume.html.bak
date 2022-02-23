@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <title>Hector Garingalao's Resume</title>
+    <link rel="stylesheet" href="resume.css">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap" rel="stylesheet">
+  </head>
+  <body> <img src="https://placeimg.com/200/200/tech" alt="Hector Garingalao, Web Designer"
+
+      class="main-image">
+    <h1>Hector Garingalao, Web Designer</h1>
+    <h2 class="section-title">Summary of Qualifications</h2>
+    <ul>
+      <li>Experience as a freelance web designer</li>
+      <li>Experience with HTML, CSS and Javascript</li>
+      <li>Bachelor of Science, Business Administration</li>
+    </ul>
+    <h2 class="section-title">Education</h2>
+    <ul>
+      <li>The Complete Web and App Development Bootcamp</li>
+      <ul>
+        <li>The London App Brewery - Remote<br>
+          November 2019 to Present</li>
+      </ul>
+      <li>EMT PreParamedic</li>
+      <ul>
+        <li>Borough of Manhattan Community College - New York, New York<br>
+          September 2004 to May 2006</li>
+      </ul>
+      <li>Certificate: Certified Internet Professional</li>
+      <ul>
+        <li>Informatics Institute - Manila, Philippines<br>
+          July 1999 to February 2000</li>
+      </ul>
+      <li>Bachelor of Science in Business Administration</li>
+      <ul>
+        <li>University of Santo Tomas - Manila, Philippines<br>
+          June 1994 to March 1998</li>
+      </ul>
+    </ul>
+    <h2 class="section-title">Employment</h2>
+    <ul>
+      <li>Quality Assurance Associate</li>
+      <ul>
+        <li>Amazon.com Inc - Staten Island, New York<br>
+          September 2019 to Present</li>
+      </ul>
+      <li>Web Designer</li>
+      <ul>
+        <li>PeoplePerHour - Remote<br>
+          December 2019 to June 2020</li>
+      </ul>
+      <li>Direct Support Staff</li>
+      <ul>
+        <li>Valley Home I and II - Yucaipa, California<br>
+          August 2011 to September 2019</li>
+      </ul>
+      <li>News Writer / Content Writer</li>
+      <ul>
+        <li>Digital Journal / Textbroker International - Remote<br>
+          May 2011 to September 2013</li>
+      </ul>
+      DOM Manipulation
+    </ul>
+    <h2 class="section-title">Skills</h2>
+    <ul>
+      <li>HTML 5</li>
+      <li>CSS 3</li>
+      <li>Bootstrap 4</li>
+      <li>Javascript ES6</li>
+      <li>DOM Manipulation</li>
+      <li>jQuery</li>
+      <li>Bash Command Line</li>
+      <li>Git, GitHub and Version Control</li>
+      <li>Node.js</li>
+    </ul>
+    <p><a href="index.html">There's no place like home.</a></p>
+    
+  </body>
+</html>

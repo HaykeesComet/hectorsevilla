@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Hector Garingalao - Web Designer</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&amp;display=swap"
+      rel="stylesheet">
+  </head>
+  <body>
+    <div class="main-nav">
+      <ul class="nav">
+        <li class="name">Hector Garingalao</li>
+        <li><a href="#">Home</a></li>
+        <li><a href="resume.html">Experience</a></li>
+        <li><a href="#">Photos</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </div>
+    <header> <img src="images/morningsun.jpg" alt="People" class="profile-image">
+      <h1 class="tag name">Hello, I’m Hector.</h1>
+      <p class="tag location">My home is California and New York.</p>
+    </header>
+    <main class="flex">
+      <div class="card">
+        <h2 class="card-title">Full Stack Web Development</h2>
+        <p>I’m a web designer who loves everything about the web. I've lived in
+          lots of different places and have worked in lots of different jobs.
+          I’m excited to bring my life experience to the process of building
+          fantastic looking websites.</p>
+        <p>Also, I have a knack for creative writing, a degree in Business with
+          computer background, and an adequate exposure in healthcare field
+          related work if I might mention.</p>
+        <p><a href="#top"><img src="https://placeimg.com/640/480/arch" alt="Architecture"
+              class="profile-image" style="width: 177px; height: 132px;"></a></p>
+        <p id="home"><a href="#top">There's no place like home.</a></p>
+      </div>
+      <div class="card">
+        <h2 class="card-title">Skills</h2>
+        <p>I master the process of building web sites possessing knowledge,
+          skills and abilities in:</p>
+        <ul class="skills">
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JavaScript</li>
+          <li>jQuery</li>
+          <li>Node JS</li>
+        </ul>
+        <p>I’d like to work for a web design firm helping clients create an
+          impressive online presence.</p>
+        <h3>Projects</h3>
+        <ul>
+          <li>Portfolio #1: <a href="https://haykeescomet.netlify.com/writing.html"
+              target="_blank">PUTO/|\DOBO</a><br>
+            CSS Blog<br>
+            (Skills utilized - HTML, CSS).</li>
+          <li>Portfolio #2: <a href="https://haykeescomet.netlify.com/nyc.html"
+              target="_blank">New Yorkers - Haykees | Comet</a><br>
+            Bootstrap Image Gallery<br>
+            (Skills utilized - HTML, CSS, Bootstrap 3).</li>
+          <li>Portfolio #3: <a href="https://haykeescomet.netlify.com/" target="_blank">Haykees
+              | Comet</a><br>
+            Startup Landing Page<br>
+            (Skills utilized - HTML, CSS, Bootstrap 3).</li>
+          <li>Portfolio #4: <a href="https://valleyhome.netlify.com/" target="_blank">Valley
+              Home I and II</a><br>
+            Pattern Project<br>
+            (Skills utilized - HTML, CSS, Bootstrap 4).</li>
+          <li>Portfolio Portfolio #5: <a href="https://dobuymobile.netlify.com/"
+              target="_blank">DO-BUY MOBILE</a><br>
+            Grid and Flexbox Project<br>
+            (Skills utilized - HTML, CSS, Bootstrap 4).</li>
+          <li>Portfolio #6: <a href="https://hectorgaringalao.netlify.com/" target="_blank">Hector
+              S Garingalao Jr</a><br>
+            Basic Navigation and Page Layout<br>
+            (Skills utilized - HTML, CSS).</li>
+        </ul>
+        <ul>
+          <li>To learn more, <a href="https://my.indeed.com/p/hectorg-hn9f2r6"
+              target="_blank">view my resume.</a></li>
+        </ul>
+      </div>
+    </main>
+    <footer>
+      <ul>
+        <li><a href="https://twitter.com/HGaringalao" target="_blank" class="social twitter">Twitter</a></li>
+        <li><a href="https://www.linkedin.com/in/hector-garingalao/" target="_blank"
+            class="social linkedin">LinkedIn</a></li>
+        <li><a href="https://github.com/HaykeesComet" target="_blank" class="social github">Github</a></li>
+      </ul>
+      <p class="copyright">Copyright 2020, Hector Garingalao</p>
+    </footer>
+  </body>
+</html>
